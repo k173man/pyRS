@@ -1,7 +1,8 @@
 repo_name: k173man/pyRS
 report_id: a664bf258423565af038545aab74868d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T01:53:32+00:00'
+timestamp: '2024-01-05T08:52:00+00:00'
 requested_by: k173man
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/k173man/pyRS
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/k173man/pyRS
   detection_source: Repo Metadata
 - name: Plotly.js
   description: A high-level, declarative charting library
@@ -35,7 +38,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2385/default_86d9af5b442d21446483d9bae3af24a4cee7d792.png
-  detection_source_url: requirements.txt
+  detection_source_url: https://github.com/k173man/pyRS/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Shane Reed
   last_updated_on: 2023-03-06 16:00:14.000000000 Z
@@ -47,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/k173man/pyRS
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -56,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/k173man/pyRS/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Shane Reed
   last_updated_on: 2023-03-06 16:00:14.000000000 Z
@@ -68,10 +73,11 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/k173man/pyRS
   detection_source: Repo Metadata
 - name: nbconvert
   description: Converting Jupyter Notebooks
-  package_url: https://pypi.org/nbconvert
+  package_url: https://pypi.org/project/nbconvert
   version: '5.5'
   license: BSD-3-Clause
   open_source: true
@@ -79,7 +85,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20059/default_07febc56eb57b6d4c91eb3ad11874d5d88882ab0.png
-  detection_source_url: requirements.txt
+  detection_source_url: https://github.com/k173man/pyRS/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Shane Reed
   last_updated_on: 2023-03-06 16:00:14.000000000 Z
@@ -93,7 +99,7 @@ tools:
     first_patched: 6.5.1
 - name: plotly
   description: An open-source, interactive graphing library for Python
-  package_url: https://pypi.org/plotly
+  package_url: https://pypi.org/project/plotly
   version: '4.0'
   license: MIT
   open_source: true
@@ -101,7 +107,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20062/default_7d86b2789b7e98a881e37db483c09c6a1aa3e995.png
-  detection_source_url: requirements.txt
+  detection_source_url: https://github.com/k173man/pyRS/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Shane Reed
   last_updated_on: 2023-03-06 16:00:14.000000000 Z
