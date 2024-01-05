@@ -1,30 +1,34 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 k173man/pyRS is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Plotly.js](https://plot.ly/javascript) – Charting Libraries
 - [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 k173man/pyRS is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2385/default_86d9af5b442d21446483d9bae3af24a4cee7d792.png' alt='Plotly.js'/> [Plotly.js](https://plot.ly/javascript) – Charting Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [k173man/pyRS](https://github.com/k173man/pyRS)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|11/11/23 <br/>Report generated|
+|8<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -103,10 +107,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[nbconvert](https://pypi.org/nbconvert)|v5.5|03/06/23|Shane Reed |BSD-3-Clause|[CVE-2021-32862](https://github.com/advisories/GHSA-9jmq-rx5f-8jwq) (Moderate)|
-|[plotly](https://pypi.org/plotly)|v4.0|03/06/23|Shane Reed |MIT|N/A|
+|[nbconvert](https://pypi.org/project/nbconvert)|v5.5|03/06/23|Shane Reed |BSD-3-Clause|[CVE-2021-32862](https://github.com/advisories/GHSA-9jmq-rx5f-8jwq) (Moderate)|
+|[plotly](https://pypi.org/project/plotly)|v4.0|03/06/23|Shane Reed |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
